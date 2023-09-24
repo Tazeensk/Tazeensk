@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data-Science, AI & ML**
 
-- 📫 How to reach me **tazeensk1406@gmail.com**
+- 📫 Reach me at **tazeensk1406@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KjY62kuFrqnVxz4kI5YUXq8cx-nFO5H4/view?usp=sharing](https://drive.google.com/file/d/1KjY62kuFrqnVxz4kI5YUXq8cx-nFO5H4/view?usp=sharing)
+- 📄 Know more About Me [https://drive.google.com/file/d/1KjY62kuFrqnVxz4kI5YUXq8cx-nFO5H4/view?usp=sharing](https://drive.google.com/file/d/1KjY62kuFrqnVxz4kI5YUXq8cx-nFO5H4/view?usp=sharing)
 
 - ⚡ Fun fact **"I'm here for the snacks and puns. 🍕😂"**
 
