@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tazeen Shaikh</h1>
 <div align="center"><img src="https://github.com/Tazeensk/Tazeensk/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner%20(1).png"></div>
 <h3 align="center">"Aspiring data scientist and student. Exploring the world of data to learn and grow. Passionate about numbers, insights, Visualizations and the endless possibilities of data."</h3>
-<img align="right" alt="Data Analysis" width="200" src="https://github.com/Tazeensk/Tazeensk/blob/main/74pZ.gif">
+<img align="right" alt="Data Analysis" width="250" src="https://github.com/Tazeensk/Tazeensk/blob/main/74pZ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazeensk&label=Profile%20views&color=0e75b6&style=flat" alt="tazeensk" /> </p>
 
