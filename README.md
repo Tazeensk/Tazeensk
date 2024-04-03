@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **tazeensk1406@gmail.com**
 
-- 📄 Know more About Me [https://drive.google.com/file/d/1KjY62kuFrqnVxz4kI5YUXq8cx-nFO5H4/view?usp=sharing](https://drive.google.com/file/d/1KjY62kuFrqnVxz4kI5YUXq8cx-nFO5H4/view?usp=sharing)
+- 📄 How about a "Portfolio peek? 😎💼 https://tazeensk.github.io/Tazeenshaikh.github.io/
 
 - ⚡ Fun fact **"I'm here for the snacks and puns. 🍕😂"**
 
