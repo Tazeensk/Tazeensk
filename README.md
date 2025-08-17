@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tazeen Shaikh</h1>
-<div align="center"><img src="https://github.com/Tazeensk/Tazeensk/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner%20(1).png"></div>
+<div align="center"><img src="https://github.com/Tazeensk/Tazeensk/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png"></div>
 <h3 align="center">"Aspiring data scientist and student. Exploring the world of data to learn and grow. Passionate about numbers, insights, Visualizations and the endless possibilities of data."</h3>
 <img align="right" alt="Data Analysis" width="250" src="https://github.com/Tazeensk/Tazeensk/blob/main/75ez.gif">
-
-<p align="left"> <img src="https://github.com/Tazeensk/Tazeensk/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png" alt="tazeensk" /> </p>
 
 - 🌱 I’m currently learning **Data-Science, AI & ML**
 
