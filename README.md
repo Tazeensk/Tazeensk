@@ -3,11 +3,11 @@
 <h3 align="center">"Aspiring data scientist and student. Exploring the world of data to learn and grow. Passionate about numbers, insights, Visualizations and the endless possibilities of data."</h3>
 <img align="right" alt="Data Analysis" width="250" src="https://github.com/Tazeensk/Tazeensk/blob/main/75ez.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tazeensk&label=Profile%20views&color=0e75b6&style=flat" alt="tazeensk" /> </p>
+<p align="left"> <img src="https://github.com/Tazeensk/Tazeensk/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.png" alt="tazeensk" /> </p>
 
 - 🌱 I’m currently learning **Data-Science, AI & ML**
 
-- 📫 Reach me at **tazeensk1406@gmail.com**
+- 📫 Reach me at **tazeen@kbpcollegevashi.edu.in**
 
 - 📄 How about a "Portfolio peek? 😎💼 https://tazeensk.github.io/Tazeenshaikh.github.io/
 
